@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, IOT, anything related to PHP
 - 🌱 I’m currently learning python, react js, Laravel, Image Recognition
 - 📫 Email: aamirahazhari@gmail.com 
-      Linkedin: https://www.linkedin.com/in/amirah-zulaikha-azharihari-74085218b/
+      Linkedin: www.linkedin.com/in/amirah-zulaikha-azhari-74085218b
 
 <!---
 amirahazhari/amirahazhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
