@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amirahazhari
-- 👀 I’m interested in web development, IOT, anything related to PHP
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning python, react js, Laravel, Image Recognition
 - 📫 Email: aamirahazhari@gmail.com 
       Linkedin: www.linkedin.com/in/amirah-zulaikha-azhari-74085218b
