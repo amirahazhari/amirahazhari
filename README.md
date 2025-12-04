@@ -24,7 +24,9 @@ Currently exploring how digital transformation and automation can simplify workf
 - 💼 [LinkedIn](https://www.linkedin.com/in/amirah-zulaikha-azhari/)
 - 🌐 [Portfolio Website](#) (in progress)
 - ✉️ amirahazharii97@gmail.com
-
+- Roadmap Progress:
+  
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6931ad2d695568122a15e757?variant=dark&roadmaps=6931af19695568122a1684a1" alt="roadmap.sh"/></a>
 ---
 
 ⭐ *“Good design is where clarity meets empathy.”*
