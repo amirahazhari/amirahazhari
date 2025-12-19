@@ -9,7 +9,7 @@ Currently exploring how digital transformation and automation can simplify workf
 ### 🌟 What I Do
 - **Business Analysis**: System migration, UAT facilitation, requirements gathering, and process automation  
 - **UI/UX Design**: Figma, user research, and prototyping  
-- **Front-End Development**: HTML, CSS, JavaScript, and Liferay customization (FTL, themes, portlets)
+- **Front-End Development**: HTML, CSS, JavaScript, and React
 
 ---
 
