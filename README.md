@@ -1,5 +1,5 @@
 # Hi, I'm Amirah Zulaikha 👋  
-### 💡 Business Analyst | 🎨 UI/UX Designer | 💻 Front-End Developer  
+###  🎨 UI/UX Designer | 💻 Front-End Developer |💡 Business Analyst  
 
 I’m passionate about bridging business goals with user-centered design and modern technology.  
 Currently exploring how digital transformation and automation can simplify workflows and improve user experiences.
